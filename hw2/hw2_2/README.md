@@ -21,7 +21,7 @@
   ```
   - Output:
   ```
-    Generate X_train,npy(previous sentence), Y_train.npy(next sentence), andword_dict.pkl(word_to_id and id_to_word).
+    Generate X_train.npy(previous sentence), Y_train.npy(next sentence), and word_dict.pkl(word_to_id and id_to_word).
   ```
 - model_seq2seq.py:  
   - Execution:  
