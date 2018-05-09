@@ -1,6 +1,3 @@
-# HW2
-### 2-2: Chatbot
-
 # Scripts:
 - 4 of all:
   - preprocess.py: training data preprocessing and dictionary prepraration
